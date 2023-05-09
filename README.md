@@ -12,17 +12,17 @@ Table of Contents:
 1. General points\
     1.1. Purposes\
     1.2. Importing modules\
-    1.3. Notations\
-2. Problem Statement
-    2.1.Dataset
-    2.2. Matrix X containing our examples
+    1.3. Notations
+2. Problem Statement\
+    2.1.Dataset\
+    2.2. Matrix X containing our examples\
     2.3. Parameter vector w, b
-3. Model Prediction with Multiple Variables
-    3.1. Single Prediction element by element
+3. Model Prediction with Multiple Variables\
+    3.1. Single Prediction element by element\
     3.2. Single Prediction, vector
 4. Compute Cost with Multiple Variables
-5. Gradient Descent with Multiple Variables
-    5.1. Compute Gradient with Multiple Variables
+5. Gradient Descent with Multiple Variables\
+    5.1. Compute Gradient with Multiple Variables\
     5.2. Gradient Descent with Multiple Variables
 
 
