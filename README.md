@@ -9,10 +9,10 @@ Project Description (Problem Satement):
 
 
 Table of Contents:
-1. General points
-    1.1. Purposes
-    1.2. Importing modules
-    1.3. Notations
+1. General points\
+    1.1. Purposes\
+    1.2. Importing modules\
+    1.3. Notations\
 2. Problem Statement
     2.1.Dataset
     2.2. Matrix X containing our examples
