@@ -32,7 +32,7 @@ To successfully run this project you have to do the following steps:
 
     Step 1. Run the "Multiple_Regression" Jupyter Notebook file on your PC/Notebook.
 
-    Step 2. Import all required libraries and data frames from the Section "Importing modules".
+    Step 2. Import all required libraries and data frames from the Sections "Importing modules" and "Dataset".
 
     Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Multiple Linear Machine Learning model execution.
 
