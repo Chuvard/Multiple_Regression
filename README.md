@@ -3,8 +3,8 @@
 ### Project's Title: Multiple_Regression
 
 
-### Project Description (Problem Satement): 
-- We will use the motivation example of housing price prediction. The training dataset contains three examples with four features (size, bedrooms, floors and, age) shown in the table below. Note that, unlike the earlier labs, size is in sqft rather than 1000 sqft.
+### Project Description (Problem Statement): 
+- We will use the motivation example of housing price prediction. The training dataset contains three examples with four features (size, bedrooms, floors, and age) shown in the table below. Note that, unlike the earlier labs, the size is in sqft rather than 1000 sqft.
 - We will build a linear regression model using these values so we can then predict the price for other houses (in 1000s US$). For example, a house with 1200 sqft, 3 bedrooms, 1 floor, 40 years old.
 
 
@@ -28,11 +28,11 @@
 
 ### How to Install and Run the Project:
 
-For successful running this project you have to do the following steps:
+To successfully run this project you have to do the following steps:
 
     Step 1. Run the "Multiple_Regression" Jupyter Notebook file on your PC/Notebook.
 
-    Step 2. Import all reqired liabraries and dataframes from Section "Importing modules".
+    Step 2. Import all required libraries and data frames from the Section "Importing modules".
 
     Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Multiple Linear Machine Learning model execution.
 
@@ -41,4 +41,4 @@ For successful running this project you have to do the following steps:
 
 ### Support:
 
-In case of any bags or additional questions concering incorrect code execution please contact author via Discord (username: VladCh). 
+In case of any bags or additional questions concerning incorrect code execution please contact the author via Discord (username: VladCh). 
