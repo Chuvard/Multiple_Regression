@@ -30,7 +30,7 @@
 
 To successfully run this project you have to do the following steps:
 
-    Step 1. Run the "Multiple_Regression" Jupyter Notebook file on your PC/Notebook.
+    Step 1. Run the "Multiple_Regression" Jupyter Notebook file here online or on your PC/Notebook.
 
     Step 2. Import all required libraries and data frames from the Sections "Importing modules" and "Dataset".
 
